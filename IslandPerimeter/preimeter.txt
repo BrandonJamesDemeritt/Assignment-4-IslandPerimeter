@@ -1,0 +1,1 @@
+Prerimeter is : 14
